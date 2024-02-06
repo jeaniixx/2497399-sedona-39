@@ -2,7 +2,7 @@
 
 * Студент: [Дмитрий Межевич](https://up.htmlacademy.ru/htmlcss/39/user/2497399).
 * Наставник: [Дарья Шестерина](https://htmlacademy.ru/profile/id221124).
-* Сайт: [Мой проект Седона](#пока-нет-ссылки)
+* Сайт: [Мой проект Седона](https://jeaniixx.github.io/2497399-sedona-39/)
 
 ---
 
